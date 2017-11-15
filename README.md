@@ -1,0 +1,1 @@
+# asembler_6_var
